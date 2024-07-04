@@ -278,7 +278,7 @@ directly to some constructors. Verbose and diagnostic information is be written
 to the trace object in most places of GCM.
 
 [avalonia]: https://avaloniaui.net/
-[core-program]: ../src/shared/Git-Credential-Manager/Program.cs
+[core-program]: ../src/windows/shared/Git-Credential-Manager/Program.cs
 [credential-provider]: configuration.md#credentialprovider
 [issue-113]: https://github.com/git-ecosystem/git-credential-manager/issues/113
 [issue-136]: https://github.com/git-ecosystem/git-credential-manager/issues/136
